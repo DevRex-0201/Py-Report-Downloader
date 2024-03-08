@@ -65,8 +65,8 @@ def convert_to_utc(dt):
 def authenticate_and_get_token():
     auth_url = 'https://foundation.textel.net/clientapi/v1/auth/authenticate'
     auth_data = {
-        "email": "dkilby@shaw.ca",
-        "password": "4Testing$$1"
+        "email": USER_NAME,
+        "password": USER_PASS
     }
     headers = {'Content-Type': 'application/json'}
     
