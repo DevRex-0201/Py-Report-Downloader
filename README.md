@@ -2,6 +2,10 @@
 
 This Python script of logging into a specific web application, downloading data, and generating reports by interacting with an API. It leverages Selenium for web automation, Requests for HTTP requests, and handles timezone conversions for accurate reporting times. Additionally, it utilizes environment variables for secure credential management.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-ReportGenerator-AutoDownload.png)](https://drive.google.com/file/d/1eHfjOZbH0nX2tVvxM4jkoo1P0LAilZLq/view?usp=drive_link)
+
 ## Features
 
 - **Web Automation**: Logs into `https://app.textel.net/login` using credentials stored in environment variables and navigates through the site to initiate a data download.
