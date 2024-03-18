@@ -4,7 +4,7 @@ This Python script of logging into a specific web application, downloading data,
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-ReportGenerator-AutoDownload.png)](https://drive.google.com/file/d/1eHfjOZbH0nX2tVvxM4jkoo1P0LAilZLq/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-ReportGenerator-AutoDownload.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-ReportGenerator-AutoDownload.mp4)
 
 ## Features
 
